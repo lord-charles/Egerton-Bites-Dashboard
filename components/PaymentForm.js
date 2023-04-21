@@ -225,7 +225,8 @@ const categories = [
   { category: 'Nuts and Seeds' },
   { category: 'Oils and Fats' },
   { category: 'Sweets and Desserts' },
-  { category: 'Beverages' }
+  { category: 'Beverages' },
+  { category: 'Proteins' }
 ]
 
 const subcategories = [
@@ -235,6 +236,9 @@ const subcategories = [
   { subcategory: 'Grains: Rice' },
   { subcategory: 'Grains: Wheat' },
   { subcategory: 'Grains: Oats' },
+  { subcategory: 'Grains: Ugali' },
+  { subcategory: 'Grains: Chapati' },
+  { subcategory: 'Grains: Pilau' },
   { subcategory: 'Dairy: Milk' },
   { subcategory: 'Dairy: Cheese' },
   { subcategory: 'Dairy: Yogurt' },
