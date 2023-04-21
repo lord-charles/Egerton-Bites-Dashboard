@@ -217,16 +217,13 @@ const RegisterPage = () => {
                 lineHeight: 1,
                 fontWeight: 600,
                 textTransform: 'uppercase',
-                fontSize: '1.5rem !important'
+                fontSize: '1.1rem !important'
               }}
             >
-              SwiftMart
+              Egerton Bites
             </Typography>
           </Box>
           <Box sx={{ mb: 6 }}>
-            <Typography variant='h5' sx={{ fontWeight: 600, marginBottom: 1.5 }}>
-              Welcome Adventure starts here 🚀
-            </Typography>
             <Typography variant='body2'>Make your app management easy and fun!</Typography>
           </Box>
           <form noValidate autoComplete='off' onSubmit={handleSubmit}>

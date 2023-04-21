@@ -179,11 +179,11 @@ const Index = () => {
                 lineHeight: 1,
                 fontWeight: 600,
                 textTransform: 'uppercase',
-                fontSize: '1.5rem !important'
+                fontSize: '1.1rem !important'
               }}
               className='text-center'
             >
-              SwiftMart Admin panel
+              Egerton Bites Admin panel
             </Typography>
           </Box>
           <Box sx={{ mb: 6 }}>
