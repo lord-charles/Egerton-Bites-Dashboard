@@ -72,6 +72,7 @@ const navigation = () => {
       path: '/products/productlist',
       icon: Cart
     },
+
     // {
     //   title: 'Add brand',
     //   icon: StarCircleOutline,
@@ -92,6 +93,7 @@ const navigation = () => {
       path: '/category/categorylist',
       icon: GoogleCirclesExtended
     },
+
     // {
     //   title: 'Add Color',
     //   path: '/color/addcolor',
@@ -135,6 +137,7 @@ const navigation = () => {
       path: '/orders',
       icon: TruckDelivery
     }
+
     // {
     //   sectionTitle: 'Enquiries Management'
     // }
